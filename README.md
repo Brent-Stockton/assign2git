@@ -2,5 +2,5 @@
 Brent Stockton
 First Comment
 First Comment added from terminal
-First Comment added from terminal
-*testbranch chagnge*
+*testbranch change*
+"new git branch on GitHub"
